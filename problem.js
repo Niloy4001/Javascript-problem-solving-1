@@ -101,3 +101,41 @@
 // else if(mark < 60  ){
 //     console.log("Your grade is F")
 // }
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////
+// 5. Simple Calculator
+// Write a simple calculator program that takes two numbers and an operator (+, -, *, /) as input. Use if-else to perform the corresponding operation and display the result.
+
+// let number1 = 7;
+// let number2 = 4;
+// let operator = "-";
+
+// let operation;
+
+// if(operator === "+"){
+//     operation = number1 + number2;
+//     console.log(operation);
+// }
+// else if(operator === "-"){
+//     operation = number1 - number2;
+//     console.log(operation);
+// }
+// else if(operator === "*"){
+//     operation = number1 * number2;
+//     console.log(operation);
+// }
+// else if(operator === "/"){
+//     operation = number1 / number2;
+//     console.log(operation);
+// }else{
+//     console.log("the operation is invalid");
+// }
+
