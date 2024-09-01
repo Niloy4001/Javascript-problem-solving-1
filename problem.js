@@ -57,12 +57,47 @@
 // 3. Check Leap Year
 // Write a function to determine whether a given year is a leap year or not. Remember that a leap year is divisible by 4, but if it is a century year (like 1900 or 2000), it must also be divisible by 400.
 
-let year = 800;
+// let year = 800;
 
-if( year % 4 === 0 && year % 100 !== 0 ){
-    console.log("it is a leap year")
-}else if( year % 4 === 0 && year > 999 && year % 400 === 0 ){ 
-    console.log("it is a leap year")
-}else{
-    console.log("its not leap year")
-}
+// if( year % 4 === 0 && year % 100 !== 0 ){
+//     console.log("it is a leap year")
+// }else if( year % 4 === 0 && year > 999 && year % 400 === 0 ){ 
+//     console.log("it is a leap year")
+// }else{
+//     console.log("its not leap year")
+// }
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+// 4. Grade Calculation
+// Take a student's marks as input and use if-else to determine the grade:
+// 90 and above: A
+// 80 to 89: B
+// 70 to 79: C
+// 60 to 69: D
+// Below 60: F
+
+// let mark = 95;
+
+// if(mark >= 90 && mark <= 100 ){
+//     console.log("Your grade is A")
+// }
+// else if(mark >= 80 && mark <= 89 ){
+//     console.log("Your grade is B")
+// }
+// else if(mark >= 70 && mark <= 79 ){
+//     console.log("Your grade is C")
+// }
+// else if(mark >= 60 && mark <= 69 ){
+//     console.log("Your grade is D")
+// }
+// else if(mark < 60  ){
+//     console.log("Your grade is F")
+// }
