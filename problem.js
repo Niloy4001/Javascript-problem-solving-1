@@ -181,9 +181,42 @@
 
 
 
-
+/////////////////////////////////////////////////////////////////////////////////////
 // 7. Vowel or Consonant
 // Write a program that takes a single character as input and checks whether it is a vowel (a, e, i, o, u) or a consonant.
+
+let character = 'c';
+
+if (character === 'a' || character === 'e' || character === 'i' || character === 'o' || character === 'u' ) {
+    console.log('vowel');
+    
+}else{
+    console.log('consonant');
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // 8. Eligibility to Vote
 // Write a JavaScript function to check whether a person is eligible to vote or not. A person is eligible if they are 18 years or older.
