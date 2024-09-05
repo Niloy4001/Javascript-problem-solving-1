@@ -139,3 +139,64 @@
 //     console.log("the operation is invalid");
 // }
 
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////
+// 6. Positive, Negative, or Zero
+// Create a function that takes a number as input and checks whether it is positive, negative, or zero using if-else statements.
+
+
+// let aNumber = 0;
+
+// if (aNumber > 0) {
+//     console.log("Positive");
+    
+// }else if (aNumber < 0) {
+//     console.log('Negative');
+    
+// }else{
+//     console.log('It is zero ');
+    
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 7. Vowel or Consonant
+// Write a program that takes a single character as input and checks whether it is a vowel (a, e, i, o, u) or a consonant.
+
+// 8. Eligibility to Vote
+// Write a JavaScript function to check whether a person is eligible to vote or not. A person is eligible if they are 18 years or older.
+
+// 9. Check Password Strength
+// Write a function to check the strength of a password. If the password length is greater than or equal to 8 characters, print "Strong", otherwise print "Weak".
+
+// 10. FizzBuzz
+// Write a program that prints the numbers from 1 to 100. But for multiples of 3, print "Fizz" instead of the number and for multiples of 5, print "Buzz". For numbers that are multiples of both 3 and 5, print "FizzBuzz".
+
+// These questions will give you a good mix of basic to intermediate practice with operators and if-else conditions in JavaScript.
+
+
+
+
+
